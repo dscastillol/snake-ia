@@ -1,0 +1,78 @@
+# =====================
+# Python
+# =====================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# =====================
+# Virtual Environments
+# =====================
+
+venv/
+.venv/
+env/
+
+
+# =====================
+# Build / Packaging
+# =====================
+
+build/
+dist/
+*.egg-info/
+
+
+# =====================
+# IDEs
+# =====================
+
+.vscode/
+.idea/
+
+
+# =====================
+# OS Files
+# =====================
+
+.DS_Store
+Thumbs.db
+
+
+# =====================
+# Python Cache / Testing
+# =====================
+
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+
+# =====================
+# Jupyter
+# =====================
+
+.ipynb_checkpoints/
+
+
+# =====================
+# Logs
+# =====================
+
+*.log
+
+
+# =====================
+# Environment Variables
+# =====================
+
+.env
+
+
+# =====================
+# Benchmark Outputs (optional)
+# =====================
+
+benchmark_results/
